@@ -1,4 +1,4 @@
-package myquote
+package GoTest1
 
 import (
 	"fmt"
