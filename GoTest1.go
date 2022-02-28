@@ -6,7 +6,7 @@ import (
 	"rsc.io/quote"
 )
 
-func main() {
+func Listquotes() {
 
 	fmt.Println("Hello()\a", quote.Hello())
 
