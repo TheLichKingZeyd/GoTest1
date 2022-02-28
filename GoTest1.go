@@ -1,4 +1,4 @@
-package myquote
+package main
 
 import (
 	"fmt"
